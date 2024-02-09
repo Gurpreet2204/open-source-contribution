@@ -1,6 +1,6 @@
 # Another readme is here
 
-This is My First OpenSource Contribution.
+This is My First open OpenSource Contribution.
 
 ## Write your name here
 
